@@ -6,3 +6,6 @@ mn create-cli-app tools-cli --lang groovy --features http-client
   cd my-app/
   mn create-controller  HelloController 
   ./gradlew run
+
+
+https://github.com/jonashackt/spring-boot-graalvm
