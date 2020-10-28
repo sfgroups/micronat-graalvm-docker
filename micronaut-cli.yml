@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: micronat.graalvm.docker
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, graalvm, gradle, http-client, junit, kotlin, logback, picocli, picocli-junit, picocli-kotlin-application, readme, shade, yaml]
